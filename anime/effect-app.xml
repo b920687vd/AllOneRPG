@@ -35,4 +35,4 @@
   <icon/>
   <customUpdateUI>false</customUpdateUI>
   <allowBrowserInvocation>false</allowBrowserInvocation>
-  <versionLabel></versionLabel></application>
+  <versionLabel/></application>
